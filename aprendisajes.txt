@@ -1,0 +1,7 @@
+Criptografía Práctica y Gestión de Identidad.
+
+1.Aprendi  a construir una bóveda digital acorazada para mis secretos y a implementar cerraduras de alta tecnología que no dependen solo de mi memoria.Gestión Avanzada con Bitwarden(nube) y KeePassXC(local).
+
+2.Usar MFA para añadir una capa de seguridad física o biométrica que hace que robar tu contraseña no sea suficiente para un atacante.
+
+3.El uso Passkeys (Llaves de Paso) es un par de llaves criptográficas, Una Llave Pública, Una Llave Privada. Vinculación de identidad a tus dispositivos en forma criptográfica. 
